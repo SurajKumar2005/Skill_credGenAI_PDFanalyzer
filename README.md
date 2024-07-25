@@ -1,8 +1,3 @@
-# Skill_credGenAI_PDFanalyzer
-Here's a draft for your README file:
-
----
-
 # PDF Analyzer Bot
 
 PDF Analyzer Bot is an innovative project designed to leverage the Gemini API and LangChain for advanced document analysis capabilities. This project enables advanced parsing, insightful analysis, and streamlined data extraction from PDF documents.
