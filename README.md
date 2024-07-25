@@ -6,13 +6,10 @@ PDF Analyzer Bot is an innovative project designed to leverage the Gemini API an
 
 - `app.py`: The main application file that runs the PDF Analyzer Bot.
 - `requirements.txt`: A list of all the dependencies and libraries required to run the project.
-## Linkedin post link :
- ```bash
-   (https://www.linkedin.com/posts/suraj-kumar-362360289_ai-chatbot-innovation-activity-7222145306778378240-_Dn8?utm_source=share&utm_medium=member_desktop)
-    ```
 
-- `app.py`: The main application file that runs the PDF Analyzer Bot.
-- `requirements.txt`: A list of all the dependencies and libraries required to run the project.
+## Linkedin Post link:-
+
+- `https://www.linkedin.com/posts/suraj-kumar-362360289_ai-chatbot-innovation-activity-7222145306778378240-_Dn8?utm_source=share&utm_medium=member_desktop`
 
 ## Installation
 
@@ -49,3 +46,10 @@ This will start the Streamlit server, and you will be able to interact with the 
 
 Special thanks to Kunal Kishore and Skillcred for their valuable guidance and support throughout this project.
 
+## License
+
+[Include your project's license information here, if applicable]
+
+---
+
+Feel free to customize this README further to better suit your project's needs.
