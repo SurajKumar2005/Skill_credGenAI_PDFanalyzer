@@ -12,6 +12,12 @@ PDF Analyzer Bot is an innovative project designed to leverage the Gemini API an
     https://www.linkedin.com/posts/suraj-kumar-362360289_ai-chatbot-innovation-activity-7222145306778378240-_Dn8?utm_source=share&utm_medium=member_desktop
     ```
 
+ **Clone the repository:**
+    ```bash
+    git clone <your-repository-url>
+    https://www.linkedin.com/posts/suraj-kumar-362360289_ai-chatbot-innovation-activity-7222145306778378240-_Dn8?utm_source=share&utm_medium=member_desktop
+    cd <your-repository-directory>
+    ```
 ## Installation
 
 To get started with the PDF Analyzer Bot, follow the steps below:
